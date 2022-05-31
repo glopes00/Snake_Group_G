@@ -1,4 +1,2 @@
-# snakeGA
-snake with neural network and Genetic Algorithm
-# TODO:
-Descrever o que cada ficheiro .py faz
+# Snake_Group_G
+Snake with Genetic Algorithm
